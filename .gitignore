@@ -1,3 +1,16 @@
+<<<<<<< HEAD
 .DS_Store
 backend/node_modules/
 frontend/node_modules/
+=======
+node_modules/
+.DS_Store
+*.log
+haters/
+.next/
+.build/
+layout.md
+variables.env
+frontend/node_modules
+backend/node_modules
+>>>>>>> Setup
