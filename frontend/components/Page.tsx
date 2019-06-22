@@ -1,7 +1,7 @@
 import * as React from 'react';
 import {Header} from './Header';
 
-export class Page extends React.Component {
+class Page extends React.Component {
   render() {
     return (
       <div>
@@ -11,3 +11,5 @@ export class Page extends React.Component {
     );
   }
 }
+
+export default Page;
